@@ -22,8 +22,3 @@ hello there
 MongoDB -> JWT for auth
 
 
-// Cookies, localstorage, sessionstorage
-
-//task
-1. create a API to unfriend the user
-2. Create a component called get all my friend request and able to accept the request.
